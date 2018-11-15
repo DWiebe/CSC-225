@@ -1,0 +1,6 @@
+Test the increment method:
+Value should be 1 is 1
+Value should be 11 is 11
+Value should be 111 is 111
+Value should be 1111 is 1111
+Value should be 11111 is 11111

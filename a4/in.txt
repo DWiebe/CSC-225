@@ -1,0 +1,5 @@
+Reading input values from stdin.
+Reading board 1
+Board 1 contains too few values.
+Processed 0 boards.
+ Average Time (seconds): 
